@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833AB4,100:FD1D1D&height=180&section=header&text=Hey%20👋%20I'm%20Mr%20Falcam!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=180&section=header&text=Hey%20👋%20I'm%20Mr%20Falcam!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </p>
 
 ---
@@ -35,8 +35,9 @@
 
 ---
 
+<!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:833AB4,100:FD1D1D&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3C72,100:2A5298&height=120&section=footer"/>
 </p>
 
 ✨ *“Code, create, and explore — one step at a time.”*  
