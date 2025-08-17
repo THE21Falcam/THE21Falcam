@@ -23,7 +23,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/debanjanpahari)  
 - 🎮 [Itch.io](https://berktown-studio.itch.io/)  
 - 🎨 [Instagram (Work)](https://www.instagram.com/berkarts21)  
-- 👤 [Instagram (Personal)](https://www.instagram.com/berkarts21)  
+- 👤 [Instagram (Personal)](https://www.instagram.com/debanjan_pahari/) 
 
 ---
 
