@@ -8,7 +8,7 @@
 ## 🎮 About Me  
 > *“A curious mind exploring games, AI, and beyond.”*  
 
-- 🧑‍💻 Currently crafting **[Lonetravelor](https://berktown-studio.itch.io/lonetravelor)** — an indie adventure game with BerkTown Studio.  
+- 🧑‍💻 Currently crafting **[Lonetravelor](https://berktown-studio.itch.io/lonetravelor)** — an Indie Turn Based Tractical RPG Game.  
 - 🤖 Exploring **AI & AI Agents**, blending creativity with intelligence.  
 - 🌍 Open to **exploring various fields of programming**, because curiosity fuels growth.  
 
