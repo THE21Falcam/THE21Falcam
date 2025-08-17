@@ -35,18 +35,6 @@
 
 ---
 
-## 📊 GitHub Dashboard  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-falcam&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-falcam&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
----
-
-## 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mr-falcam&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</p>
 
 ---
 
