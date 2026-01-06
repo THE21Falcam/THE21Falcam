@@ -13,6 +13,10 @@
 - 🌍 Open to **exploring various fields of programming**, because curiosity fuels growth.  
 
 ---
+## Recent Endevers
+- 🧑‍💻 Currently crafting **[BotRoulette](https://github.com/THE21Falcam/BotRoulette)** — a AI Powered Twitch Stream Like Neuro-Sama With a Economy System & Text Based Gameplay.  
+
+---
 
 ## 🛠️ Tech Arsenal  
 <p align="center">
