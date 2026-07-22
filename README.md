@@ -12,7 +12,7 @@
 
 ---
 ## Active Projects
-  - Currently Working on **[Syntax-Siege](https://github.com/THE21Falcam/Syntax-Siege)** - A Programming Game Where You Have to Program a Robot In Assembly-Esque Programming System
+  - Currently Working on **[Syntax-Siege](https://github.com/THE21Falcam/Syntax-Siege)** A Programming Game Where You Have to Program a Robot In Assembly-Esque Programming System
 
 ---
 
