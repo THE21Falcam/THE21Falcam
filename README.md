@@ -5,20 +5,18 @@
 
 ---
 
-## 🎮 About Me  
-> *“A curious mind exploring games, AI, and beyond.”*  
-
-- 🧑‍💻 Currently crafting **[Lonetravelor](https://berktown-studio.itch.io/lonetravelor)** — an Indie Turn Based Tractical RPG Game.  
-- 🤖 Exploring **AI & AI Agents**, blending creativity with intelligence.  
-- 🌍 Open to **exploring various fields of programming**, because curiosity fuels growth.  
+## About Me  
+> *“Curiosity and Lazyness Gives Birth to New Inventions”*  
+  - Game Dev Enthusiast and Love Experimenting With New and semi Unique Concepts in Gaming
+  - Exploring Various Fields Like Cyber Security, Assembly/Low-Level Programming, AI
 
 ---
-## Recent Endevers
-- 🧑‍💻 Currently crafting **[BotRoulette](https://github.com/THE21Falcam/BotRoulette)** — a AI Powered Twitch Stream Like Neuro-Sama With a Economy System & Text Based Gameplay.  
+## Active Projects
+  - Currently Working on **[Syntax-Siege](https://github.com/THE21Falcam/Syntax-Siege)** - A Programming Game Where You Have to Program a Robot In Assembly-Esque Programming System
 
 ---
 
-## 🛠️ Tech Arsenal  
+## Tech Arsenal  
 <p align="center">
   <img src="https://img.shields.io/badge/Game%20Engine-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -29,7 +27,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+## Where Can You Find Me ?
 <p align="center">
   <a href="https://www.linkedin.com/in/debanjanpahari"><img src="https://img.shields.io/badge/LinkedIn-Debanjan%20Pahari-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://berktown-studio.itch.io/"><img src="https://img.shields.io/badge/Itch.io-BerkTown%20Studio-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" /></a>
@@ -44,4 +42,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:00BFFF&height=120&section=footer"/>
 </p>
 
-✨ *“Code, create, and explore — one step at a time.”*   
+✨ *“Code, create, and explore — one step at a time.”*
