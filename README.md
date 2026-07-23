@@ -7,7 +7,7 @@
 
 ## About Me  
 > *“Curiosity and Lazyness Gives Birth to New Inventions”*  
-  - Game Dev Enthusiast and Love Experimenting With New and semi Unique Concepts in Gaming
+  - GameDev Enthusiast and Love Experimenting With New and semi Unique Concepts in Gaming
   - Exploring Various Fields Like Cyber Security, Assembly/Low-Level Programming, AI
 
 ---
